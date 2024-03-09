@@ -39,11 +39,11 @@ Growing up with a keen interest in technology and a passion for ensuring privacy
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/bilgekagan-anketleri.git
+git clone https://github.com/aligedikli/aletheia-project.git
 
 2. Navigate to the project directory:
 
-cd bilgekagan-anketleri
+cd aletheia-project
 
 3. Install dependencies:
 
