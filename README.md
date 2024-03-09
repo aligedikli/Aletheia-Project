@@ -39,34 +39,47 @@ Growing up with a keen interest in technology and a passion for ensuring privacy
 
 1. Clone the repository:
 
-'''git clone https://github.com/aligedikli/aletheia-project.git'''
+```sh
+git clone https://github.com/aligedikli/aletheia-project.git
+```
 
 2. Navigate to the project directory:
 
-'''cd aletheia-project'''
+```sh
+cd aletheia-project
+```
 
 3. Install dependencies:
 
-'''yarn install'''
+```sh
+yarn install
+```
 
 4. Build the project:
 
-'''anchor build'''
+```sh
+anchor build
+```
 
 5. Deploy the smart contracts to the Solana devnet:
 
+```sh
 solana program deploy /path/to/your/program.so
-
+```
 
 ### Running the Front-end
 
 1. Navigate to the front-end directory:
 
-'''cd frontend'''
+```sh
+cd frontend
+```
 
 2. Start the application:
 
-'''yarn start'''
+```sh
+yarn start
+```
 
 
 Open your web browser and navigate to `http://localhost:3000` to interact with the platform.
