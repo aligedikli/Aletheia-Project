@@ -1,4 +1,5 @@
 # Aletheia-Project
+![image](https://github.com/aligedikli/Aletheia-Project/assets/90208101/2382e5ff-a944-4fc8-8b5b-78a36a7d2870)
 
 ## Project Overview
 
