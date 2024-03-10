@@ -1,91 +1,42 @@
-# Aletheia-Project
-![image](https://github.com/aligedikli/Aletheia-Project/assets/90208101/2382e5ff-a944-4fc8-8b5b-78a36a7d2870)
+# Voting DApp Project
+Project Details PDF : https://drive.google.com/file/d/1nMM9hVDBROlmfvAtqgwntO9M4sX9_vd9/view?usp=sharing
 
-## Project Overview
+![image](https://github.com/berkcicekk/Voting_DApp/assets/90208101/ebffd397-47d4-4107-8925-3391acf3ee61)
 
-Aletheia Project is a pioneering blockchain-based survey platform built on the Solana Blockchain, leveraging Multi-party Computation (MPC) to ensure the utmost privacy and anonymity for its users. This platform facilitates truly anonymous surveys, allowing participants to voice their opinions without the fear of being identified. Designed primarily for organizational feedback and assessments, Aletheia Project aims to transform how insights are gathered in professional settings. By securing user responses on the Solana blockchain, it guarantees data integrity, transparency, and accessibility, while the MPC technology ensures that individual responses remain confidential, fostering a more honest and productive feedback environment.
+## Available Scripts
 
-## Vision Statement
+In the project directory, you can run:
 
-Aletheia Project envisions a world where the integrity of feedback loops is unquestioned, and the anonymity of voices heard. In professional environments, where honest feedback is crucial yet often hindered by the fear of repercussion, our platform stands as a beacon of trust and security. By harnessing the power of the Solana Blockchain and MPC technology, we aim to revolutionize the feedback process, making it genuinely anonymous and thus more honest and impactful. Aletheia Project is not just a tool but a movement towards creating transparent, inclusive, and truthful organizational cultures.
+### `npm start`
 
-## Software Development Plan
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-1. **Smart Contract Design:** Begin by defining the smart contract on Solana, focusing on functions for creating surveys, submitting responses, and computing aggregate results using MPC. Variables will include survey IDs, participant IDs (anonymized), and response data.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-2. **MPC Integration:** Develop and integrate the MPC algorithm within the smart contract to ensure that individual responses are processed in a way that guarantees privacy and anonymity.
+### `npm test`
 
-3. **Survey Management Functions:** Implement additional smart contract functions for survey management, such as updating, deleting, and retrieving survey results.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-4. **Front-end Development:** Create a user-friendly web interface that allows users to interact with the blockchain, create surveys, participate anonymously, and view aggregated results.
+### `npm run build`
 
-5. **Testing and QA:** Conduct thorough testing of smart contracts and the front-end application, focusing on security, usability, and performance.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-6. **Deployment:** Deploy the smart contracts to the Solana blockchain and launch the web application for public use.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## Personal Story Summary
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Growing up with a keen interest in technology and a passion for ensuring privacy, I've always sought ways to blend these interests. Witnessing the challenges of honest feedback in professional environments, I was inspired to create a solution that could bridge trust and transparency gaps. This led to the birth of Aletheia Project, a project close to my heart, aiming to revolutionize feedback mechanisms by guaranteeing anonymity and security through blockchain and MPC technologies.
+### `npm run eject`
 
-## Installation Guide
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-### Prerequisites
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-- Node.js (v14.x or later)
-- Yarn package manager
-- Solana CLI tools
-- Anchor framework for Solana
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-### Setting Up
-
-1. Clone the repository:
-
-```sh
-git clone https://github.com/aligedikli/aletheia-project.git
-```
-
-2. Navigate to the project directory:
-
-```sh
-cd aletheia-project
-```
-
-3. Install dependencies:
-
-```sh
-yarn install
-```
-
-4. Build the project:
-
-```sh
-anchor build
-```
-
-5. Deploy the smart contracts to the Solana devnet:
-
-```sh
-solana program deploy /path/to/your/program.so
-```
-
-### Running the Front-end
-
-1. Navigate to the front-end directory:
-
-```sh
-cd frontend
-```
-
-2. Start the application:
-
-```sh
-yarn start
-```
-
-
-Open your web browser and navigate to `http://localhost:3000` to interact with the platform.
-
-
-
-
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
