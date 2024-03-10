@@ -1,6 +1,13 @@
 # Aletheia-Project
 ![image](https://github.com/aligedikli/Aletheia-Project/assets/90208101/2382e5ff-a944-4fc8-8b5b-78a36a7d2870)
 
+
+![image](https://github.com/aligedikli/Aletheia-Project/assets/90208101/adc51a41-e376-41a1-bc6a-1afe1f0cb07c)
+![image](https://github.com/aligedikli/Aletheia-Project/assets/90208101/a221105f-491e-4dde-8567-fffb9f6a3d56)
+![image](https://github.com/aligedikli/Aletheia-Project/assets/90208101/4900c3b9-c5f7-4679-ba23-1adfdde4a7fb)
+![image](https://github.com/aligedikli/Aletheia-Project/assets/90208101/e48456e2-4b9c-44a7-935a-4287e86f1e08)
+
+
 ## Project Overview
 
 Aletheia Project is a pioneering blockchain-based survey platform built on the Solana Blockchain, leveraging Multi-party Computation (MPC) to ensure the utmost privacy and anonymity for its users. This platform facilitates truly anonymous surveys, allowing participants to voice their opinions without the fear of being identified. Designed primarily for organizational feedback and assessments, Aletheia Project aims to transform how insights are gathered in professional settings. By securing user responses on the Solana blockchain, it guarantees data integrity, transparency, and accessibility, while the MPC technology ensures that individual responses remain confidential, fostering a more honest and productive feedback environment.
